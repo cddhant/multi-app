@@ -25,7 +25,7 @@ import plotly.express as px
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
 def main():
-	""" Data Science Super App """
+	""" Multi-App """
 
 	activities = ["EDA","Plots", "AutoScaller", "Outliers Remover", "PCA"]	
 	choice = st.sidebar.selectbox("Select Activities",activities)
