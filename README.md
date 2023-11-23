@@ -56,7 +56,6 @@ An automated no-code multi-app in which users can upload their own/any dataset a
 
 - Clean Data
 ![OutliersRemover 4](https://github.com/cddhant/multi-app/assets/70098886/ec4ec444-d9a8-45e5-b77b-759760adc11d)
-![OutliersRemover 5](https://github.com/cddhant/multi-app/assets/70098886/b87b0429-fc52-41ba-ba3c-8d2c6bbaa642)
 
 ### 4. PCA
 - User Uploads dataset and gets an instant summary
